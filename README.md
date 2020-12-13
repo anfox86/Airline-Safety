@@ -1,2 +1,2 @@
 # DSC640---Data-Presentation-and-Visualization
-Course work for DSC640
+Data scientists should be great storytellers, whether using visual, text, or other means. In this course, students explore the basic storytelling components of data science and apply them to different types of data for different types of clients and audiences. Presentation techniques, language use for different audiences, and visualization tools techniques are included.
